@@ -9,7 +9,7 @@ This Application is powered by **Twilio Segment Services(Javascript API), Amazon
 
 
 
-Before you Start using this application, 
+# Before you Start using this application, 
 
 1.)  Please make sure that you have signed up with **Twilio Segment (https://app.segment.com/signup)** and have obtained or downloaded your **generated 
 Mimified Twilio Segment Javascript Code along with its API Keys.**
@@ -18,9 +18,9 @@ Mimified Twilio Segment Javascript Code along with its API Keys.**
 and also have created and configure your IAM Credentials and must have connected your Twilio Segment Workspace with Your Amazon S3 Cloud Services..
 
 
-**Next: **
+**Next:**
 
-How to Install the Application Locally on Xampp Server For PHP
+# How to Install the Application Locally on Xampp Server For PHP
 
 Before you Start using this application,
 
